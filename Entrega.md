@@ -6,7 +6,7 @@ Nome: < Deivis Costa Pereira >
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               | Sunway TaihuLight |  Lenovo IdeaPad S145 |
-| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://zap.aeiou.pt/wp-content/uploads/2016/11/36368ad6a218021e33baec5c02f46cc1.jpeg" width="48"> | <img src="https://www.lenovo.com/medias/Notebook-S145-Linux-1.jpg?context=bWFzdGVyfHJvb3R8NzM5MzF8aW1hZ2UvanBlZ3xoNDYvaDYyLzEwNTE1NjQyNDE3MTgyLmpwZ3w5ZTg3NDcxNmY5MDJlODg5MWRlZGE2Y2JkZTA1ZmUyYTUxYjA4YTgzMmE1ZmYyNWJjYjE0YjBiZmM3YjIzZjU0&w=1920" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://zap.aeiou.pt/wp-content/uploads/2016/11/36368ad6a218021e33baec5c02f46cc1.jpeg" width="177"> | <img src="https://www.lenovo.com/medias/Notebook-S145-Linux-1.jpg?context=bWFzdGVyfHJvb3R8NzM5MzF8aW1hZ2UvanBlZ3xoNDYvaDYyLzEwNTE1NjQyNDE3MTgyLmpwZ3w5ZTg3NDcxNmY5MDJlODg5MWRlZGE2Y2JkZTA1ZmUyYTUxYjA4YTgzMmE1ZmYyNWJjYjE0YjBiZmM3YjIzZjU0&w=1920" width="90">|
 | Classificação de Flynn                                    | MIMD | MMID |
 | Memória: compartilhada, distribuída ou ambas?             | Ambas | Compartilhada |
 | Número total de núcleos de processamento                  | 10,649,600 | 4 |
